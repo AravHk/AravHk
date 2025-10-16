@@ -1,5 +1,5 @@
 I am ARAVINDH.💫<br />
-🌱I am learning App Development.<br />
+🌱I am learning Web & App Development.<br />
 💭Ask me about Multithreading in java.<br />
 
 <h3 align="left">Languages and Tools:</h3>
