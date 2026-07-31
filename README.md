@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Pixel Wave Animation Background -->
-<img src="https://raw.githubusercontent.com/AravHk/AravHk/main/assets/pixel-wave.svg" width="100%" alt="Pixel Wave"/>
+<!--<img src="https://raw.githubusercontent.com/AravHk/AravHk/main/assets/pixel-wave.svg" width="100%" alt="Pixel Wave"/>-->
 
 <!-- Animated wave header - Blue Ocean -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006994&height=200&section=header&text=AravHk&fontSize=70&fontColor=00BFFF&animation=fadeIn&fontAlignY=38&desc=Semper%20Victoriam.&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006994&height=200&section=header&text=Aravindh.S&fontSize=70&fontColor=00BFFF&animation=fadeIn&fontAlignY=38&desc=Semper%20Victoriam.&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/AravHk">
@@ -19,13 +19,12 @@
 <tr>
 <td width="45%" valign="center">
 
-### ⚔️ The Spartan Way
+### ⚔️ The Veturius Way
 
 <img src="https://media1.tenor.com/m/6y5PSdENrSMAAAAd/spartan-300.gif" width="380" alt="Spartan Warrior"/>
 
-> *"This is where we fight! This is where they die!"*
-
-> *Molon Labe* — *"Come and take them"*
+> "There is no light for one who does not darkness"
+<img src="g1.jpg" width="380" alt="Spartan Warrior"/>
 
 </td>
 <td width="55%" valign="top">
@@ -53,10 +52,10 @@
 
 <div align="center">
 
-### 🌊 Pixel Wave Scene
+
 
 <!-- Pixel Art Scene with Waves and Lightning -->
-<img src="https://raw.githubusercontent.com/AravHk/AravHk/main/assets/pixel-scene.svg" width="100%" alt="Pixel Scene"/>
+<!--<img src="https://raw.githubusercontent.com/AravHk/AravHk/main/assets/pixel-scene.svg" width="100%" alt="Pixel Scene"/>-->
 
 </div>
 
