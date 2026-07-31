@@ -144,13 +144,7 @@
 
 <br/>
 
-<div align="center">
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aravhk&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 <br/>
 
@@ -160,9 +154,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=aravhk&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 </div>
 
