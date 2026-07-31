@@ -190,8 +190,6 @@
 ---
 
 <div align="center">
-
-[![](https://komarev.com/ghpvc/?username=AravHk&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
